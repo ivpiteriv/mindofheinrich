@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mind of Heinrich</title>
+    <link>https://ivpiteriv.github.io/mindofheinrich/</link>
+    <description>Recent content on Mind of Heinrich</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved</copyright><atom:link href="https://ivpiteriv.github.io/mindofheinrich/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://ivpiteriv.github.io/mindofheinrich/about/</link>
+      <pubDate>Mon, 12 Oct 2020 13:28:03 +0200</pubDate>
+      
+      <guid>https://ivpiteriv.github.io/mindofheinrich/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
