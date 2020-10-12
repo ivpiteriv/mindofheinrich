@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved</copyright>
-    <lastBuildDate>Mon, 12 Oct 2020 16:18:32 +0200</lastBuildDate><atom:link href="https://ivpiteriv.github.io/mindofheinrich/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Oct 2020 17:12:30 +0200</lastBuildDate><atom:link href="https://ivpiteriv.github.io/mindofheinrich/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post03</title>
+      <link>https://ivpiteriv.github.io/mindofheinrich/post03/</link>
+      <pubDate>Mon, 12 Oct 2020 17:12:30 +0200</pubDate>
+      
+      <guid>https://ivpiteriv.github.io/mindofheinrich/post03/</guid>
+      <description>This is the 3. Post!</description>
+    </item>
+    
     <item>
       <title>Post01</title>
       <link>https://ivpiteriv.github.io/mindofheinrich/post01/</link>
